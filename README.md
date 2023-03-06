@@ -6,3 +6,5 @@ Requirements
 - Poiyomi 8.0
 
 > AudioLink is used by the shader by default, just so you know.
+## Donations
+Do you enjoy this work and want to support me? You can donate here! https://donate.lumey.dev/
